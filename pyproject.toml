@@ -1,0 +1,7 @@
+[project]
+name = "crew-ai"
+version = "0.1.0"
+description = "A Python-based framework using CrewAI to build collaborative, role-driven AI agents that solve complex tasks via structured workflows powered by LLMs like OpenAI"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
